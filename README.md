@@ -24,7 +24,7 @@ Follow these steps to set up the project on your machine:
 
 1. **Clone the repository**
    ```bash
-   git clone git@github.com:YOURUSERNAME/alias-manager.git
+   git clone git@github.com:alexpanfa/alias-manager.git
    cd alias-manager
 
 2. **Create a virtual environment**
