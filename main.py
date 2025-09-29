@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import importlib.util
 import subprocess
 import sys
